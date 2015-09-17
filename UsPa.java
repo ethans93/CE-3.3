@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class UsPa
 {
 	public static void main (String [] args)
+<<<<<<< HEAD
 	{
 
 	String password0, username0, password1, username1;
@@ -49,3 +50,4 @@ public class UsPa
 	}
 }
 		
+
